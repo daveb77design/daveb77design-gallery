@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dbreese87-sys.github.io/daveb77design-gallery/sitemap.xml
